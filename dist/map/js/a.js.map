@@ -1,0 +1,1 @@
+{"version":3,"sources":["a.js"],"names":["sayHi","console","log"],"mappings":"AAAA,QAASA,SACPC,QAAQC,IAAI,oBAIdF","file":"a.js","sourcesContent":["function sayHi () {\r\n  console.log('Hi everybody. 33');\r\n}\r\n\r\n// hello world  3\r\nsayHi();"],"sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["a.css"],"names":[],"mappings":"AACA,IACE,MAAO,IACP,MAAO","file":"a.css","sourceRoot":"/source/","sourcesContent":["/* html css */\r\n.h2 {\r\n  width: 20%;\r\n  color: blue;\r\n}\r\n\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["b.js"],"names":["hiB","alert"],"mappings":"AACA,QAASA,OACPC,MAAM,YAERD","file":"b.js","sourcesContent":["// b.js\r\nfunction hiB() {\r\n  alert('Hi B! 66');\r\n}\r\nhiB();"],"sourceRoot":"/source/"}
